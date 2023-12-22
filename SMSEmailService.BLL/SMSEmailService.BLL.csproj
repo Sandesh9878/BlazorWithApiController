@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Formatters.Json" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SMSEmailService.DAL\SMSEmailService.DAL.csproj" />
+    <ProjectReference Include="..\SMSEmailService.Model\SMSEmailService.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="SMS\" />
+  </ItemGroup>
+
+</Project>

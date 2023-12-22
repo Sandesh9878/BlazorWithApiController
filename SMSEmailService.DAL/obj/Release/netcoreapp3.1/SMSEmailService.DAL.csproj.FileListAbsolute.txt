@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\API\Email-SMS-Service-master\API\SMSEmailService.DAL\bin\Release\netcoreapp3.1\SMSEmailService.DAL.deps.json
+C:\Users\ASUS\source\repos\API\Email-SMS-Service-master\API\SMSEmailService.DAL\bin\Release\netcoreapp3.1\SMSEmailService.DAL.runtimeconfig.json
+C:\Users\ASUS\source\repos\API\Email-SMS-Service-master\API\SMSEmailService.DAL\bin\Release\netcoreapp3.1\SMSEmailService.DAL.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\API\Email-SMS-Service-master\API\SMSEmailService.DAL\bin\Release\netcoreapp3.1\SMSEmailService.DAL.dll
+C:\Users\ASUS\source\repos\API\Email-SMS-Service-master\API\SMSEmailService.DAL\bin\Release\netcoreapp3.1\SMSEmailService.DAL.pdb
+C:\Users\ASUS\source\repos\API\Email-SMS-Service-master\API\SMSEmailService.DAL\obj\Release\netcoreapp3.1\SMSEmailService.DAL.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\API\Email-SMS-Service-master\API\SMSEmailService.DAL\obj\Release\netcoreapp3.1\SMSEmailService.DAL.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\API\Email-SMS-Service-master\API\SMSEmailService.DAL\obj\Release\netcoreapp3.1\SMSEmailService.DAL.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\API\Email-SMS-Service-master\API\SMSEmailService.DAL\obj\Release\netcoreapp3.1\SMSEmailService.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\API\Email-SMS-Service-master\API\SMSEmailService.DAL\obj\Release\netcoreapp3.1\SMSEmailService.DAL.dll
+C:\Users\ASUS\source\repos\API\Email-SMS-Service-master\API\SMSEmailService.DAL\obj\Release\netcoreapp3.1\SMSEmailService.DAL.pdb
+C:\Users\ASUS\source\repos\API\Email-SMS-Service-master\API\SMSEmailService.DAL\obj\Release\netcoreapp3.1\SMSEmailService.DAL.genruntimeconfig.cache
